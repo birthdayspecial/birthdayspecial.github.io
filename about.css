@@ -1,0 +1,23 @@
+body{
+    
+    background-size:contain;
+    background-image: url(images/index.jpg);
+
+    
+}
+h2,h1{
+    word-wrap:break-word;
+    font-family:cursive;
+    font-style: italic;
+    color:white;
+}
+#gif
+{
+    float: right;
+}
+#cake
+{
+    height: 200px;
+    width: 200px;
+    
+}

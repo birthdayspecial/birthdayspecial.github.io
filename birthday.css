@@ -1,0 +1,59 @@
+.grid-container {
+    display: grid;
+    grid-column-gap: 50px;
+  }
+  #btns
+  {
+    
+    text-align: center;
+    box-shadow: 0mm;
+  }
+  #wishes
+  {
+    text-align:right;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .img
+  {
+    height: 400px;
+    width: 200px;
+    padding: 0;
+    margin: 1em;
+
+  }
+  .img2
+  {
+    height: 500px;
+    width: 400px;
+    padding: 0;
+    margin: 1em;
+
+  }
+  h2{
+    color: white;
+    
+  }
+  body{
+    background-image:url(images/black9.jpg);
+    background-size: cover;
+    
+  }
+  #best
+  {
+    float:right;
+    color:white;
+  }
+  .you
+{   text-align-last:center;
+    font-size: 25px;
+    font-style: italic;
+    background-color: lightcoral;
+    visibility:hidden
+
+}
+.from
+{
+ background-color: lightcyan;
+ font-style: italic;
+ visibility: hidden;
+}
